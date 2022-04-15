@@ -1,0 +1,296 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1649996482458,2319,Register 1,200,OK,Registration 1-1,text,true,,326,497,2,2,https://api.demoblaze.com/signup,2319,0,1242
+1649996484368,1730,Register 2,200,OK,Registration 1-2,text,true,,326,497,1,1,https://api.demoblaze.com/signup,1730,0,426
+1649996486366,880,Register 3,200,OK,Registration 1-3,text,true,,326,497,1,1,https://api.demoblaze.com/signup,880,0,400
+1649996488366,891,Register 4,200,OK,Registration 1-4,text,true,,326,497,1,1,https://api.demoblaze.com/signup,891,0,409
+1649996490365,1407,Register 5,200,OK,Registration 1-5,text,true,,326,497,1,1,https://api.demoblaze.com/signup,1407,0,317
+1649996492365,1559,Register 6,200,OK,Registration 1-6,text,true,,326,497,1,1,https://api.demoblaze.com/signup,1558,0,403
+1649996494377,808,Register 7,200,OK,Registration 1-7,text,true,,326,497,1,1,https://api.demoblaze.com/signup,808,0,353
+1649996496363,1708,Register 8,200,OK,Registration 1-8,text,true,,326,497,1,1,https://api.demoblaze.com/signup,1708,0,594
+1649996498367,895,Register 9,200,OK,Registration 1-9,text,true,,326,497,1,1,https://api.demoblaze.com/signup,895,0,406
+1649996500360,927,Register 10,200,OK,Registration 1-10,text,true,,330,498,1,1,https://api.demoblaze.com/signup,926,0,449
+1649996502361,1070,Register 11,200,OK,Registration 1-11,text,true,,326,498,1,1,https://api.demoblaze.com/signup,1070,0,615
+1649996504358,788,Register 12,200,OK,Registration 1-12,text,true,,326,498,1,1,https://api.demoblaze.com/signup,787,0,329
+1649996506368,1201,Register 13,200,OK,Registration 1-13,text,true,,326,498,1,1,https://api.demoblaze.com/signup,1201,0,689
+1649996508359,1333,Register 14,200,OK,Registration 1-14,text,true,,326,498,1,1,https://api.demoblaze.com/signup,1333,0,701
+1649996510357,809,Register 15,200,OK,Registration 1-15,text,true,,326,498,1,1,https://api.demoblaze.com/signup,809,0,351
+1649996511184,772,Login  1,200,OK,login 2-1,text,true,,486,496,12,12,https://api.demoblaze.com/login,771,0,278
+1649996511244,768,Login  2,200,OK,login 2-2,text,true,,634,496,12,12,https://api.demoblaze.com/login,768,0,285
+1649996511313,764,Login  3,200,OK,login 2-3,text,true,,607,496,12,12,https://api.demoblaze.com/login,764,0,295
+1649996511377,948,Login  4,200,OK,login 2-4,text,true,,654,496,12,12,https://api.demoblaze.com/login,948,0,325
+1649996511574,867,Login  7,200,OK,login 2-7,text,true,,604,496,11,11,https://api.demoblaze.com/login,867,0,328
+1649996511444,997,Login  5,200,OK,login 2-5,text,true,,678,496,11,11,https://api.demoblaze.com/login,997,0,294
+1649996511640,983,Login  8,200,OK,login 2-8,text,true,,517,496,9,9,https://api.demoblaze.com/login,983,0,291
+1649996511710,913,Login  9,200,OK,login 2-9,text,true,,532,496,9,9,https://api.demoblaze.com/login,913,0,317
+1649996511509,1166,Login  6,200,OK,login 2-6,text,true,,600,496,7,7,https://api.demoblaze.com/login,1165,0,593
+1649996511774,903,Login  10,200,OK,login 2-10,text,true,,622,497,6,6,https://api.demoblaze.com/login,903,0,298
+1649996511975,893,Login  13,200,OK,login 2-13,text,true,,590,497,5,5,https://api.demoblaze.com/login,892,0,374
+1649996511910,969,Login  12,200,OK,login 2-12,text,true,,504,497,4,4,https://api.demoblaze.com/login,969,0,439
+1649996511845,1038,Login  11,200,OK,login 2-11,text,true,,622,497,3,3,https://api.demoblaze.com/login,1038,0,504
+1649996512110,899,Login  15,200,OK,login 2-15,text,true,,600,497,2,2,https://api.demoblaze.com/login,899,0,377
+1649996512043,1137,Login  14,200,OK,login 2-14,text,true,,507,497,1,1,https://api.demoblaze.com/login,1137,0,654
+1649996513191,803,InvalidLogin ,200,OK,Invalid Login 3-1,text,true,,690,497,13,13,https://api.demoblaze.com/login,803,0,344
+1649996513317,703,InvalidLogin ,200,OK,Invalid Login 3-3,text,true,,659,497,12,12,https://api.demoblaze.com/login,703,0,256
+1649996513251,776,InvalidLogin ,200,OK,Invalid Login 3-2,text,true,,610,497,11,11,https://api.demoblaze.com/login,776,0,284
+1649996513385,727,InvalidLogin ,200,OK,Invalid Login 3-4,text,true,,509,497,11,11,https://api.demoblaze.com/login,726,0,294
+1649996513451,786,InvalidLogin ,200,OK,Invalid Login 3-5,text,true,,599,497,11,11,https://api.demoblaze.com/login,786,0,311
+1649996513528,801,InvalidLogin ,200,OK,Invalid Login 3-6,text,true,,733,497,10,10,https://api.demoblaze.com/login,800,0,364
+1649996513658,707,InvalidLogin ,200,OK,Invalid Login 3-8,text,true,,569,497,9,9,https://api.demoblaze.com/login,707,0,279
+1649996513725,694,InvalidLogin ,200,OK,Invalid Login 3-9,text,true,,548,497,8,8,https://api.demoblaze.com/login,694,0,286
+1649996513793,772,InvalidLogin ,200,OK,Invalid Login 3-10,text,true,,618,497,7,7,https://api.demoblaze.com/login,772,0,349
+1649996513857,761,InvalidLogin ,200,OK,Invalid Login 3-11,text,true,,682,497,6,6,https://api.demoblaze.com/login,761,0,330
+1649996513926,712,InvalidLogin ,200,OK,Invalid Login 3-12,text,true,,560,497,5,5,https://api.demoblaze.com/login,712,0,277
+1649996513991,775,InvalidLogin ,200,OK,Invalid Login 3-13,text,true,,653,497,4,4,https://api.demoblaze.com/login,775,0,310
+1649996514058,753,InvalidLogin ,200,OK,Invalid Login 3-14,text,true,,677,497,3,3,https://api.demoblaze.com/login,752,0,307
+1649996514127,710,InvalidLogin ,200,OK,Invalid Login 3-15,text,true,,730,497,2,2,https://api.demoblaze.com/login,710,0,276
+1649996513594,1478,InvalidLogin ,200,OK,Invalid Login 3-7,text,true,,722,497,1,1,https://api.demoblaze.com/login,1478,0,244
+1649996515086,758,Add Mobile to cart,200,OK,Scenario4 4-1,text,true,,331,549,19,19,https://api.demoblaze.com/addtocart,758,0,301
+1649996515186,928,Add Mobile to cart,200,OK,Scenario4 4-3,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,928,0,301
+1649996515136,979,Add Mobile to cart,200,OK,Scenario4 4-2,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,979,0,352
+1649996515238,999,Add Mobile to cart,200,OK,Scenario4 4-4,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,999,0,329
+1649996515360,1058,Add Mobile to cart,200,OK,Scenario4 4-7,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1058,0,267
+1649996515320,1100,Add Mobile to cart,200,OK,Scenario4 4-6,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1100,0,303
+1649996515446,1062,Add Mobile to cart,200,OK,Scenario4 4-9,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1062,0,256
+1649996515400,1112,Add Mobile to cart,200,OK,Scenario4 4-8,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1112,0,291
+1649996515844,881,Add Laptop to cart,200,OK,Scenario4 4-1,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,881,0,0
+1649996515510,1220,Add Mobile to cart,200,OK,Scenario4 4-11,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1220,0,260
+1649996515590,1229,Add Mobile to cart,200,OK,Scenario4 4-13,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1229,0,262
+1649996515621,1198,Add Mobile to cart,200,OK,Scenario4 4-14,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1198,0,265
+1649996515281,1651,Add Mobile to cart,200,OK,Scenario4 4-5,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1651,0,596
+1649996516237,893,Add Laptop to cart,200,OK,Scenario4 4-4,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,893,0,0
+1649996515550,1580,Add Mobile to cart,200,OK,Scenario4 4-12,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1580,0,334
+1649996516116,1015,Add Laptop to cart,200,OK,Scenario4 4-2,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1015,0,0
+1649996515478,1739,Add Mobile to cart,200,OK,Scenario4 4-10,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1739,0,704
+1649996516115,1106,Add Laptop to cart,200,OK,Scenario4 4-3,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1106,0,0
+1649996516061,1256,Add Mobile to cart,200,OK,Scenario4 4-25,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1256,0,293
+1649996515907,1410,Add Mobile to cart,200,OK,Scenario4 4-21,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1410,0,438
+1649996516508,909,Add Laptop to cart,200,OK,Scenario4 4-9,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,909,0,0
+1649996516513,904,Add Laptop to cart,200,OK,Scenario4 4-8,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,904,0,0
+1649996516820,696,Add Laptop to cart,200,OK,Scenario4 4-14,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,696,0,0
+1649996516726,821,Add Monitor to cart,200,OK,Scenario4 4-1,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,821,0,0
+1649996516932,682,Add Laptop to cart,200,OK,Scenario4 4-5,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,682,0,0
+1649996516820,797,Add Laptop to cart,200,OK,Scenario4 4-13,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,797,0,0
+1649996517131,621,Add Monitor to cart,200,OK,Scenario4 4-2,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,621,0,0
+1649996517130,625,Add Monitor to cart,200,OK,Scenario4 4-4,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,625,0,0
+1649996517130,687,Add Laptop to cart,200,OK,Scenario4 4-12,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,687,0,0
+1649996517217,629,Add Laptop to cart,200,OK,Scenario4 4-10,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,629,0,0
+1649996517317,705,Add Laptop to cart,200,OK,Scenario4 4-25,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,705,0,0
+1649996517222,800,Add Monitor to cart,200,OK,Scenario4 4-3,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,800,0,0
+1649996517317,720,Add Laptop to cart,200,OK,Scenario4 4-21,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,720,0,0
+1649996517418,692,Add Monitor to cart,200,OK,Scenario4 4-8,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,692,0,0
+1649996517418,727,Add Monitor to cart,200,OK,Scenario4 4-9,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,727,0,0
+1649996517517,695,Add Monitor to cart,200,OK,Scenario4 4-14,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,695,0,0
+1649996517617,718,Add Monitor to cart,200,OK,Scenario4 4-13,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,718,0,0
+1649996517548,802,Add Moblie2 to cart,200,OK,Scenario4 4-1,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,802,0,0
+1649996517615,832,Add Monitor to cart,200,OK,Scenario4 4-5,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,832,0,0
+1649996517756,759,Add Moblie2 to cart,200,OK,Scenario4 4-4,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,759,0,0
+1649996517753,816,Add Moblie2 to cart,200,OK,Scenario4 4-2,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,816,0,0
+1649996517818,797,Add Monitor to cart,200,OK,Scenario4 4-12,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,797,0,0
+1649996517847,832,Add Monitor to cart,200,OK,Scenario4 4-10,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,832,0,0
+1649996518023,766,Add Monitor to cart,200,OK,Scenario4 4-25,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,766,0,0
+1649996518023,838,Add Moblie2 to cart,200,OK,Scenario4 4-3,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,838,0,0
+1649996518037,884,Add Monitor to cart,200,OK,Scenario4 4-21,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,884,0,0
+1649996518110,899,Add Moblie2 to cart,200,OK,Scenario4 4-8,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,899,0,0
+1649996518146,914,Add Moblie2 to cart,200,OK,Scenario4 4-9,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,914,0,0
+1649996518212,947,Add Moblie2 to cart,200,OK,Scenario4 4-14,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,947,0,0
+1649996518350,885,Add Laptop2 to cart,200,OK,Scenario4 4-1,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,885,0,0
+1649996518335,979,Add Moblie2 to cart,200,OK,Scenario4 4-13,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,979,0,0
+1649996518448,935,Add Moblie2 to cart,200,OK,Scenario4 4-5,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,935,0,0
+1649996518569,884,Add Laptop2 to cart,200,OK,Scenario4 4-2,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,884,0,0
+1649996518515,982,Add Laptop2 to cart,200,OK,Scenario4 4-4,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,982,0,0
+1649996518615,960,Add Moblie2 to cart,200,OK,Scenario4 4-12,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,960,0,0
+1649996518679,963,Add Moblie2 to cart,200,OK,Scenario4 4-10,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,963,0,0
+1649996518789,938,Add Moblie2 to cart,200,OK,Scenario4 4-25,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,938,0,0
+1649996518861,920,Add Laptop2 to cart,200,OK,Scenario4 4-3,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,920,0,0
+1649996515674,4108,Add Mobile to cart,200,OK,Scenario4 4-15,text,true,,335,549,25,25,https://api.demoblaze.com/addtocart,4108,0,433
+1649996518922,1052,Add Moblie2 to cart,200,OK,Scenario4 4-21,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1052,0,0
+1649996515710,4264,Add Mobile to cart,200,OK,Scenario4 4-16,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4264,0,399
+1649996519009,967,Add Laptop2 to cart,200,OK,Scenario4 4-8,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,967,0,0
+1649996516419,3565,Add Laptop to cart,200,OK,Scenario4 4-7,text,true,,335,549,25,25,https://api.demoblaze.com/addtocart,3565,0,0
+1649996515787,4198,Add Mobile to cart,200,OK,Scenario4 4-18,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4198,0,405
+1649996519061,925,Add Laptop2 to cart,200,OK,Scenario4 4-9,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,925,0,0
+1649996515823,4163,Add Mobile to cart,200,OK,Scenario4 4-19,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4163,0,382
+1649996515986,4007,Add Mobile to cart,200,OK,Scenario4 4-23,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4007,0,377
+1649996515746,4285,Add Mobile to cart,200,OK,Scenario4 4-17,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4285,0,459
+1649996515864,4295,Add Mobile to cart,200,OK,Scenario4 4-20,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4295,0,613
+1649996516024,4135,Add Mobile to cart,200,OK,Scenario4 4-24,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4135,0,333
+1649996516420,3740,Add Laptop to cart,200,OK,Scenario4 4-6,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,3740,0,0
+1649996519159,1067,Add Laptop2 to cart,200,OK,Scenario4 4-14,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1067,0,0
+1649996515947,4314,Add Mobile to cart,200,OK,Scenario4 4-22,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,4314,0,410
+1649996516730,3533,Add Laptop to cart,200,OK,Scenario4 4-11,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,3533,0,0
+1649996519315,1002,Add Laptop2 to cart,200,OK,Scenario4 4-13,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1002,0,0
+1649996519974,397,Add Laptop2 to cart,200,OK,Scenario4 4-21,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,397,0,0
+1649996519974,500,Add Laptop to cart,200,OK,Scenario4 4-16,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,500,0,0
+1649996519454,1024,Cart Page,200,OK,Scenario4 4-2,text,true,,5785,516,25,25,https://www.demoblaze.com/cart.html,1021,0,590
+1649996519498,1061,Cart Page,200,OK,Scenario4 4-4,text,true,,5766,516,25,25,https://www.demoblaze.com/cart.html,1060,0,546
+1649996519977,584,Cart Page,200,OK,Scenario4 4-8,text,true,,5874,516,25,25,https://www.demoblaze.com/cart.html,581,0,289
+1649996519985,576,Add Laptop to cart,200,OK,Scenario4 4-18,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,576,0,0
+1649996519576,986,Add Laptop2 to cart,200,OK,Scenario4 4-12,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,986,0,0
+1649996519985,580,Add Monitor to cart,200,OK,Scenario4 4-7,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,580,0,0
+1649996519384,1180,Add Laptop2 to cart,200,OK,Scenario4 4-5,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1180,0,0
+1649996519986,607,Add Laptop to cart,200,OK,Scenario4 4-19,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,607,0,0
+1649996519643,975,Add Laptop2 to cart,200,OK,Scenario4 4-10,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,975,0,0
+1649996519783,844,Cart Page,200,OK,Scenario4 4-3,text,true,,5958,516,25,25,https://www.demoblaze.com/cart.html,842,0,450
+1649996520263,386,Add Monitor to cart,200,OK,Scenario4 4-11,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,386,0,0
+1649996519727,963,Add Laptop2 to cart,200,OK,Scenario4 4-25,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,963,0,0
+1649996519783,967,Add Laptop to cart,200,OK,Scenario4 4-15,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,967,0,0
+1649996519987,870,Cart Page,200,OK,Scenario4 4-9,text,true,,5847,516,25,25,https://www.demoblaze.com/cart.html,865,0,412
+1649996519994,879,Add Laptop to cart,200,OK,Scenario4 4-23,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,879,0,0
+1649996520319,573,Cart Page,200,OK,Scenario4 4-13,text,true,,6067,516,25,25,https://www.demoblaze.com/cart.html,572,0,337
+1649996520033,913,Add Laptop to cart,200,OK,Scenario4 4-17,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,913,0,0
+1649996519236,1766,Cart Page,200,OK,Scenario4 4-1,text,true,,5769,516,25,25,https://www.demoblaze.com/cart.html,1765,0,1355
+1649996520562,440,View Cart,200,OK,Scenario4 4-8,text,true,,765,491,25,25,https://api.demoblaze.com/viewcart,440,0,0
+1649996520566,453,Add Moblie2 to cart,200,OK,Scenario4 4-7,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,453,0,0
+1649996520159,870,Add Laptop to cart,200,OK,Scenario4 4-20,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,870,0,0
+1649996520594,450,Add Monitor to cart,200,OK,Scenario4 4-19,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,450,0,0
+1649996520227,835,Cart Page,200,OK,Scenario4 4-14,text,true,,5664,516,25,25,https://www.demoblaze.com/cart.html,835,0,429
+1649996520650,427,Add Moblie2 to cart,200,OK,Scenario4 4-11,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,427,0,0
+1649996520159,1066,Add Laptop to cart,200,OK,Scenario4 4-24,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,1066,0,0
+1649996520160,1068,Add Monitor to cart,200,OK,Scenario4 4-6,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,1068,0,0
+1649996520563,665,Cart Page,200,OK,Scenario4 4-12,text,true,,6033,516,25,25,https://www.demoblaze.com/cart.html,662,0,334
+1649996520373,856,Cart Page,200,OK,Scenario4 4-21,text,true,,5999,516,25,25,https://www.demoblaze.com/cart.html,856,0,411
+1649996520262,968,Add Laptop to cart,200,OK,Scenario4 4-22,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,968,0,0
+1649996520572,727,Cart Page,200,OK,Scenario4 4-5,text,true,,5992,516,25,25,https://www.demoblaze.com/cart.html,726,0,325
+1649996520946,382,Add Monitor to cart,200,OK,Scenario4 4-17,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,382,0,0
+1649996520475,865,Add Monitor to cart,200,OK,Scenario4 4-16,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,865,0,0
+1649996520619,744,Cart Page,200,OK,Scenario4 4-10,text,true,,5720,516,25,25,https://www.demoblaze.com/cart.html,743,0,340
+1649996521019,375,Add Laptop2 to cart,200,OK,Scenario4 4-7,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,375,0,0
+1649996521003,393,View Cart,200,OK,Scenario4 4-1,text,true,,670,491,25,25,https://api.demoblaze.com/viewcart,393,0,0
+1649996520691,721,Cart Page,200,OK,Scenario4 4-25,text,true,,6047,516,25,25,https://www.demoblaze.com/cart.html,705,0,311
+1649996521044,407,Add Moblie2 to cart,200,OK,Scenario4 4-19,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,407,0,0
+1649996520478,973,View Cart,200,OK,Scenario4 4-2,text,true,,784,491,25,25,https://api.demoblaze.com/viewcart,973,0,0
+1649996521077,408,Add Laptop2 to cart,200,OK,Scenario4 4-11,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,408,0,0
+1649996521063,427,View Cart,200,OK,Scenario4 4-14,text,true,,807,491,25,25,https://api.demoblaze.com/viewcart,427,0,0
+1649996520561,936,Add Monitor to cart,200,OK,Scenario4 4-18,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,936,0,0
+1649996520559,1022,View Cart,200,OK,Scenario4 4-4,text,true,,673,491,25,25,https://api.demoblaze.com/viewcart,1021,0,0
+1649996521229,398,View Cart,200,OK,Scenario4 4-21,text,true,,691,491,25,25,https://api.demoblaze.com/viewcart,398,0,0
+1649996520628,1008,View Cart,200,OK,Scenario4 4-3,text,true,,741,491,25,25,https://api.demoblaze.com/viewcart,1008,0,0
+1649996521231,416,Add Monitor to cart,200,OK,Scenario4 4-22,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,416,0,0
+1649996520750,942,Add Monitor to cart,200,OK,Scenario4 4-15,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,942,0,0
+1649996521340,389,Add Moblie2 to cart,200,OK,Scenario4 4-16,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,389,0,0
+1649996521329,426,Add Moblie2 to cart,200,OK,Scenario4 4-17,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,426,0,0
+1649996520874,947,Add Monitor to cart,200,OK,Scenario4 4-23,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,947,0,0
+1649996521413,408,View Cart,200,OK,Scenario4 4-25,text,true,,697,491,25,25,https://api.demoblaze.com/viewcart,408,0,0
+1649996521396,428,Delete one cart item,200,OK,Scenario4 4-1,text,true,,340,493,25,25,https://api.demoblaze.com/deleteitem,428,0,0
+1649996521451,390,Add Laptop2 to cart,200,OK,Scenario4 4-19,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,390,0,0
+1649996520858,1023,View Cart,200,OK,Scenario4 4-9,text,true,,736,491,25,25,https://api.demoblaze.com/viewcart,1023,0,0
+1649996521395,491,Cart Page,200,OK,Scenario4 4-7,text,true,,5893,516,25,25,https://www.demoblaze.com/cart.html,489,0,282
+1649996521497,394,Add Moblie2 to cart,200,OK,Scenario4 4-18,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,394,0,0
+1649996521003,892,Delete one cart item,200,OK,Scenario4 4-8,text,true,,642,493,25,25,https://api.demoblaze.com/deleteitem,892,0,0
+1649996521824,130,Cart Page after deleting,200,OK,Scenario4 4-1,text,true,,5901,482,25,25,https://www.demoblaze.com/cart.html,128,0,0
+1649996521486,482,Cart Page,200,OK,Scenario4 4-11,text,true,,5894,516,25,25,https://www.demoblaze.com/cart.html,481,0,286
+1649996521029,943,Add Monitor to cart,200,OK,Scenario4 4-20,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,943,0,0
+1649996521627,381,Delete one cart item,200,OK,Scenario4 4-21,text,true,,340,493,25,25,https://api.demoblaze.com/deleteitem,381,0,0
+1649996521895,158,Cart Page after deleting,200,OK,Scenario4 4-8,text,true,,5921,482,25,25,https://www.demoblaze.com/cart.html,147,0,0
+1649996521229,836,View Cart,200,OK,Scenario4 4-12,text,true,,757,491,25,25,https://api.demoblaze.com/viewcart,836,0,0
+1649996521648,427,Add Moblie2 to cart,200,OK,Scenario4 4-22,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,427,0,0
+1649996521692,388,Add Moblie2 to cart,200,OK,Scenario4 4-15,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,388,0,0
+1649996521225,871,Add Monitor to cart,200,OK,Scenario4 4-24,text,true,,331,550,25,25,https://api.demoblaze.com/addtocart,871,0,0
+1649996521756,381,Add Laptop2 to cart,200,OK,Scenario4 4-17,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,381,0,0
+1649996522008,145,Cart Page after deleting,200,OK,Scenario4 4-21,text,true,,5796,482,25,25,https://www.demoblaze.com/cart.html,144,0,0
+1649996521229,931,Add Moblie2 to cart,200,OK,Scenario4 4-6,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,931,0,0
+1649996521821,389,Add Moblie2 to cart,200,OK,Scenario4 4-23,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,389,0,0
+1649996521300,952,View Cart,200,OK,Scenario4 4-5,text,true,,854,491,25,25,https://api.demoblaze.com/viewcart,952,0,0
+1649996521892,401,Add Laptop2 to cart,200,OK,Scenario4 4-18,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,401,0,0
+1649996521882,412,Delete one cart item,200,OK,Scenario4 4-9,text,true,,340,493,25,25,https://api.demoblaze.com/deleteitem,412,0,0
+1649996521364,938,View Cart,200,OK,Scenario4 4-10,text,true,,692,491,25,25,https://api.demoblaze.com/viewcart,938,0,0
+1649996521451,880,Delete one cart item,200,OK,Scenario4 4-2,text,true,,613,493,25,25,https://api.demoblaze.com/deleteitem,880,0,0
+1649996521490,856,Delete one cart item,200,OK,Scenario4 4-14,text,true,,661,493,25,25,https://api.demoblaze.com/deleteitem,856,0,0
+1649996521843,515,Cart Page,200,OK,Scenario4 4-19,text,true,,5791,516,25,25,https://www.demoblaze.com/cart.html,514,0,307
+1649996521972,386,Add Moblie2 to cart,200,OK,Scenario4 4-20,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,386,0,0
+1649996520892,1520,View Cart,200,OK,Scenario4 4-13,text,true,,758,491,25,25,https://api.demoblaze.com/viewcart,1520,0,0
+1649996522295,154,Cart Page after deleting,200,OK,Scenario4 4-9,text,true,,5871,482,25,25,https://www.demoblaze.com/cart.html,151,0,0
+1649996522076,375,Add Laptop2 to cart,200,OK,Scenario4 4-22,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,375,0,0
+1649996522096,369,Add Moblie2 to cart,200,OK,Scenario4 4-24,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,369,0,0
+1649996521581,932,Delete one cart item,200,OK,Scenario4 4-4,text,true,,340,493,25,25,https://api.demoblaze.com/deleteitem,932,0,0
+1649996522332,182,Cart Page after deleting,200,OK,Scenario4 4-2,text,true,,5919,482,25,25,https://www.demoblaze.com/cart.html,181,0,0
+1649996521636,896,Delete one cart item,200,OK,Scenario4 4-3,text,true,,517,493,25,25,https://api.demoblaze.com/deleteitem,896,0,0
+1649996522347,198,Cart Page after deleting,200,OK,Scenario4 4-14,text,true,,5837,482,25,25,https://www.demoblaze.com/cart.html,196,0,0
+1649996522160,395,Add Laptop2 to cart,200,OK,Scenario4 4-6,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,395,0,0
+1649996521730,837,Add Laptop2 to cart,200,OK,Scenario4 4-16,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,837,0,0
+1649996522211,382,Add Laptop2 to cart,200,OK,Scenario4 4-23,text,true,,331,549,25,25,https://api.demoblaze.com/addtocart,382,0,0
+1649996521821,776,Delete one cart item,200,OK,Scenario4 4-25,text,true,,507,493,25,25,https://api.demoblaze.com/deleteitem,776,0,0
+1649996522302,354,Delete one cart item,200,OK,Scenario4 4-10,text,true,,557,493,25,25,https://api.demoblaze.com/deleteitem,354,0,0
+1649996522514,155,Cart Page after deleting,200,OK,Scenario4 4-4,text,true,,5961,482,25,25,https://www.demoblaze.com/cart.html,153,0,0
+1649996522138,533,Cart Page,200,OK,Scenario4 4-17,text,true,,5986,516,25,25,https://www.demoblaze.com/cart.html,531,0,345
+1649996522532,154,Cart Page after deleting,200,OK,Scenario4 4-3,text,true,,5919,482,25,25,https://www.demoblaze.com/cart.html,153,0,0
+1649996521886,835,View Cart,200,OK,Scenario4 4-7,text,true,,628,491,25,25,https://api.demoblaze.com/viewcart,835,0,0
+1649996522597,155,Cart Page after deleting,200,OK,Scenario4 4-25,text,true,,6043,482,25,25,https://www.demoblaze.com/cart.html,154,0,0
+1649996522412,356,Delete one cart item,200,OK,Scenario4 4-13,text,true,,503,493,25,25,https://api.demoblaze.com/deleteitem,356,0,0
+1649996521954,838,View cart after deleting,200,OK,Scenario4 4-1,text,true,,729,491,25,25,https://api.demoblaze.com/viewcart,838,0,0
+1649996522358,443,Add Laptop2 to cart,200,OK,Scenario4 4-20,text,true,,331,549,24,24,https://api.demoblaze.com/addtocart,443,0,0
+1649996522358,444,View Cart,200,OK,Scenario4 4-19,text,true,,669,491,24,24,https://api.demoblaze.com/viewcart,444,0,0
+1649996522656,148,Cart Page after deleting,200,OK,Scenario4 4-10,text,true,,5850,482,24,24,https://www.demoblaze.com/cart.html,146,0,0
+1649996522295,540,Cart Page,200,OK,Scenario4 4-18,text,true,,6148,516,24,24,https://www.demoblaze.com/cart.html,539,0,335
+1649996521968,872,View Cart,200,OK,Scenario4 4-11,text,true,,614,491,24,24,https://api.demoblaze.com/viewcart,872,0,0
+1649996522466,390,Add Laptop2 to cart,200,OK,Scenario4 4-24,text,true,,331,549,24,24,https://api.demoblaze.com/addtocart,390,0,0
+1649996522065,806,Delete one cart item,200,OK,Scenario4 4-12,text,true,,482,493,24,24,https://api.demoblaze.com/deleteitem,805,0,0
+1649996522769,138,Cart Page after deleting,200,OK,Scenario4 4-13,text,true,,6049,482,24,24,https://www.demoblaze.com/cart.html,123,0,0
+1649996522453,493,Cart Page,200,OK,Scenario4 4-22,text,true,,5858,516,24,24,https://www.demoblaze.com/cart.html,493,0,301
+1649996522053,920,View cart after deleting,200,OK,Scenario4 4-8,text,true,,780,491,24,24,https://api.demoblaze.com/viewcart,920,0,0
+1649996522871,130,Cart Page after deleting,200,OK,Scenario4 4-12,text,true,,5973,482,23,23,https://www.demoblaze.com/cart.html,130,0,0
+1649996522080,952,Add Laptop2 to cart,200,OK,Scenario4 4-15,text,true,,331,549,23,23,https://api.demoblaze.com/addtocart,952,0,0
+1649996522556,501,Cart Page,200,OK,Scenario4 4-6,text,true,,5879,516,23,23,https://www.demoblaze.com/cart.html,487,0,296
+1649996522568,489,Cart Page,200,OK,Scenario4 4-16,text,true,,5974,516,23,23,https://www.demoblaze.com/cart.html,489,0,284
+1649996522594,472,Cart Page,200,OK,Scenario4 4-23,text,true,,5809,516,23,23,https://www.demoblaze.com/cart.html,469,0,277
+1649996522686,393,View cart after deleting,200,OK,Scenario4 4-3,text,true,,717,491,23,23,https://api.demoblaze.com/viewcart,393,0,0
+1649996522672,418,View Cart,200,OK,Scenario4 4-17,text,true,,764,491,22,22,https://api.demoblaze.com/viewcart,418,0,0
+1649996522752,441,View cart after deleting,200,OK,Scenario4 4-25,text,true,,800,491,22,22,https://api.demoblaze.com/viewcart,441,0,0
+1649996522802,392,Delete one cart item,200,OK,Scenario4 4-19,text,true,,680,493,22,22,https://api.demoblaze.com/deleteitem,392,0,0
+1649996522253,941,Delete one cart item,200,OK,Scenario4 4-5,text,true,,662,493,22,22,https://api.demoblaze.com/deleteitem,941,0,0
+1649996522450,881,View cart after deleting,200,OK,Scenario4 4-9,text,true,,790,491,21,21,https://api.demoblaze.com/viewcart,881,0,0
+1649996523194,169,Cart Page after deleting,200,OK,Scenario4 4-5,text,true,,5752,482,20,20,https://www.demoblaze.com/cart.html,169,0,0
+1649996523194,169,Cart Page after deleting,200,OK,Scenario4 4-19,text,true,,5994,482,20,20,https://www.demoblaze.com/cart.html,154,0,0
+1649996522515,868,View cart after deleting,200,OK,Scenario4 4-2,text,true,,666,491,20,20,https://api.demoblaze.com/viewcart,868,0,0
+1649996522858,550,Cart Page,200,OK,Scenario4 4-24,text,true,,5922,516,19,19,https://www.demoblaze.com/cart.html,549,0,336
+1649996522802,608,Cart Page,200,OK,Scenario4 4-20,text,true,,5786,516,19,19,https://www.demoblaze.com/cart.html,606,0,391
+1649996523091,351,Delete one cart item,200,OK,Scenario4 4-17,text,true,,575,493,19,19,https://api.demoblaze.com/deleteitem,350,0,0
+1649996522546,914,View cart after deleting,200,OK,Scenario4 4-14,text,true,,690,491,19,19,https://api.demoblaze.com/viewcart,914,0,0
+1649996522669,859,View cart after deleting,200,OK,Scenario4 4-4,text,true,,682,491,18,18,https://api.demoblaze.com/viewcart,859,0,0
+1649996522722,826,Delete one cart item,200,OK,Scenario4 4-7,text,true,,587,493,17,17,https://api.demoblaze.com/deleteitem,826,0,0
+1649996522154,1407,View cart after deleting,200,OK,Scenario4 4-21,text,true,,857,491,17,17,https://api.demoblaze.com/viewcart,1407,0,0
+1649996522804,794,View cart after deleting,200,OK,Scenario4 4-10,text,true,,779,491,16,16,https://api.demoblaze.com/viewcart,794,0,0
+1649996523442,162,Cart Page after deleting,200,OK,Scenario4 4-17,text,true,,5906,482,15,15,https://www.demoblaze.com/cart.html,161,0,0
+1649996522840,792,Delete one cart item,200,OK,Scenario4 4-11,text,true,,481,493,15,15,https://api.demoblaze.com/deleteitem,792,0,0
+1649996523033,641,Cart Page,200,OK,Scenario4 4-15,text,true,,5906,516,15,15,https://www.demoblaze.com/cart.html,640,0,402
+1649996523549,139,Cart Page after deleting,200,OK,Scenario4 4-7,text,true,,5711,482,15,15,https://www.demoblaze.com/cart.html,139,0,0
+1649996522907,781,View cart after deleting,200,OK,Scenario4 4-13,text,true,,664,491,15,15,https://api.demoblaze.com/viewcart,781,0,0
+1649996522946,830,View Cart,200,OK,Scenario4 4-22,text,true,,661,491,14,14,https://api.demoblaze.com/viewcart,830,0,0
+1649996523633,187,Cart Page after deleting,200,OK,Scenario4 4-11,text,true,,5912,482,14,14,https://www.demoblaze.com/cart.html,175,0,0
+1649996523057,800,View Cart,200,OK,Scenario4 4-16,text,true,,816,491,14,14,https://api.demoblaze.com/viewcart,800,0,0
+1649996523057,861,View Cart,200,OK,Scenario4 4-6,text,true,,818,491,14,14,https://api.demoblaze.com/viewcart,861,0,0
+1649996523067,893,View Cart,200,OK,Scenario4 4-23,text,true,,639,491,14,14,https://api.demoblaze.com/viewcart,893,0,0
+1649996522835,1189,View Cart,200,OK,Scenario4 4-18,text,true,,690,491,14,14,https://api.demoblaze.com/viewcart,1189,0,0
+1649996523364,712,View cart after deleting,200,OK,Scenario4 4-19,text,true,,657,491,14,14,https://api.demoblaze.com/viewcart,712,0,0
+1649996523364,771,View cart after deleting,200,OK,Scenario4 4-5,text,true,,706,491,13,13,https://api.demoblaze.com/viewcart,771,0,0
+1649996523408,768,View Cart,200,OK,Scenario4 4-24,text,true,,682,491,12,12,https://api.demoblaze.com/viewcart,767,0,0
+1649996523410,843,View Cart,200,OK,Scenario4 4-20,text,true,,661,491,12,12,https://api.demoblaze.com/viewcart,843,0,0
+1649996523604,713,View cart after deleting,200,OK,Scenario4 4-17,text,true,,848,491,12,12,https://api.demoblaze.com/viewcart,713,0,0
+1649996523002,1402,View cart after deleting,200,OK,Scenario4 4-12,text,true,,649,491,11,11,https://api.demoblaze.com/viewcart,1402,0,0
+1649996523919,496,Delete one cart item,200,OK,Scenario4 4-6,text,true,,671,493,10,10,https://api.demoblaze.com/deleteitem,496,0,0
+1649996523674,771,View Cart,200,OK,Scenario4 4-15,text,true,,868,491,10,10,https://api.demoblaze.com/viewcart,771,0,0
+1649996524416,132,Cart Page after deleting,200,OK,Scenario4 4-6,text,true,,5922,482,10,10,https://www.demoblaze.com/cart.html,131,0,0
+1649996523688,888,View cart after deleting,200,OK,Scenario4 4-7,text,true,,768,491,10,10,https://api.demoblaze.com/viewcart,888,0,0
+1649996523776,826,Delete one cart item,200,OK,Scenario4 4-22,text,true,,591,493,9,9,https://api.demoblaze.com/deleteitem,826,0,0
+1649996523821,866,View cart after deleting,200,OK,Scenario4 4-11,text,true,,844,491,9,9,https://api.demoblaze.com/viewcart,866,0,0
+1649996523857,867,Delete one cart item,200,OK,Scenario4 4-16,text,true,,494,493,8,8,https://api.demoblaze.com/deleteitem,867,0,0
+1649996524602,149,Cart Page after deleting,200,OK,Scenario4 4-22,text,true,,6007,482,8,8,https://www.demoblaze.com/cart.html,138,0,0
+1649996523960,791,Delete one cart item,200,OK,Scenario4 4-23,text,true,,680,493,8,8,https://api.demoblaze.com/deleteitem,791,0,0
+1649996524025,742,Delete one cart item,200,OK,Scenario4 4-18,text,true,,717,493,8,8,https://api.demoblaze.com/deleteitem,742,0,0
+1649996524176,620,Delete one cart item,200,OK,Scenario4 4-24,text,true,,487,493,8,8,https://api.demoblaze.com/deleteitem,620,0,0
+1649996524254,589,Delete one cart item,200,OK,Scenario4 4-20,text,true,,629,493,8,8,https://api.demoblaze.com/deleteitem,589,0,0
+1649996524446,424,Delete one cart item,200,OK,Scenario4 4-15,text,true,,666,493,8,8,https://api.demoblaze.com/deleteitem,424,0,0
+1649996524725,147,Cart Page after deleting,200,OK,Scenario4 4-16,text,true,,5857,482,8,8,https://www.demoblaze.com/cart.html,146,0,0
+1649996524751,133,Cart Page after deleting,200,OK,Scenario4 4-23,text,true,,5949,482,8,8,https://www.demoblaze.com/cart.html,132,0,0
+1649996524767,120,Cart Page after deleting,200,OK,Scenario4 4-18,text,true,,5926,482,8,8,https://www.demoblaze.com/cart.html,120,0,0
+1649996524796,273,Cart Page after deleting,200,OK,Scenario4 4-24,text,true,,5796,482,8,8,https://www.demoblaze.com/cart.html,273,0,0
+1649996524548,521,View cart after deleting,200,OK,Scenario4 4-6,text,true,,765,491,8,8,https://api.demoblaze.com/viewcart,521,0,0
+1649996524844,227,Cart Page after deleting,200,OK,Scenario4 4-20,text,true,,5862,482,7,7,https://www.demoblaze.com/cart.html,225,0,0
+1649996524870,201,Cart Page after deleting,200,OK,Scenario4 4-15,text,true,,5902,482,7,7,https://www.demoblaze.com/cart.html,201,0,0
+1649996524751,396,View cart after deleting,200,OK,Scenario4 4-22,text,true,,823,491,7,7,https://api.demoblaze.com/viewcart,396,0,0
+1649996524872,394,View cart after deleting,200,OK,Scenario4 4-16,text,true,,703,491,6,6,https://api.demoblaze.com/viewcart,394,0,0
+1649996524888,461,View cart after deleting,200,OK,Scenario4 4-18,text,true,,835,491,5,5,https://api.demoblaze.com/viewcart,461,0,0
+1649996524884,533,View cart after deleting,200,OK,Scenario4 4-23,text,true,,842,491,4,4,https://api.demoblaze.com/viewcart,533,0,0
+1649996525070,599,View cart after deleting,200,OK,Scenario4 4-24,text,true,,857,491,3,3,https://api.demoblaze.com/viewcart,599,0,0
+1649996525071,598,View cart after deleting,200,OK,Scenario4 4-20,text,true,,746,491,3,3,https://api.demoblaze.com/viewcart,598,0,0
+1649996525072,635,View cart after deleting,200,OK,Scenario4 4-15,text,true,,719,491,1,1,https://api.demoblaze.com/viewcart,635,0,0
